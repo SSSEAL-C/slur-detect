@@ -1,0 +1,24 @@
+{
+  "name": "slur-detect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSSEAL-C/slur-detect.git"
+  },
+  "author": "SSSEAL-C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSSEAL-C/slur-detect/issues"
+  },
+  "homepage": "https://github.com/SSSEAL-C/slur-detect#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "tmi.js": "^1.8.5"
+  }
+}

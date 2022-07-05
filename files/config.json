@@ -1,0 +1,16 @@
+{
+	"_comment1": "Set slur_decect/link_detect to either both, twitch or discord",
+	"slur_detect": "both",
+	"link_detect": "none",
+	"log_channel_id": "log-id",
+	"discord_token": "TOKEN",
+	"twitch_channel": "Twitch",
+	"twitch_slurs_file": "./files/twitchslurs.json",
+	"discord_slurs_file": "./files/discordslurs.json",
+	"ignored_channels": ["","","",""],
+	"twitch_username": "username",
+	"twitch_password": "oauth:",
+	"discord_link_whitelist": "./files/discordwhitelist.json",
+	"twitch_link_whitelist": "./files/twitchwhitelist.json",
+	"suffixes": "./files/suffixes.json"
+}
